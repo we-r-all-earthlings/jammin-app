@@ -7,9 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="#" target="_blank">
-          <img src="./src/images/jukebox-1.jpg" className="logo" alt="jammin logo" />
-        </a>
+        <img src="./src/images/jukebox-1.png" className="logo" alt="jammin logo" />
       </div>
       <h1>The Jammin Playlist App</h1>
       <div className="card">
