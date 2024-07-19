@@ -29,6 +29,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #017c83;
+  cursor: default;
 }
 
 h1 {
